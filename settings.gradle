@@ -1,0 +1,2 @@
+rootProject.name='Generic Recycler Adapter'
+include ':app'
